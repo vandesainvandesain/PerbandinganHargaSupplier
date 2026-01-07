@@ -1,0 +1,7 @@
+{
+  "name": "Procurement Dashboard Pro",
+  "description": "A comprehensive dashboard for comparing supplier prices with CRUD capabilities for managing suppliers and master items.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
